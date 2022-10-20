@@ -5,10 +5,10 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-
+On the Impact of Data Augmentation on Downstream Performance in Natural Language Processing
 
 Link to the paper:
-
+https://aclanthology.org/2022.insights-1.12/
 
 Group Number:
 21
