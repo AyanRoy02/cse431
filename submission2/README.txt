@@ -2,13 +2,13 @@ Link to unlisted youtube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1wcdU-FH51LE4aGxizX1ic51ZVprqUDZ3D6SopH3W8uY/edit?usp=sharing
 
 Paper title:
-On the Impact of Data Augmentation on Downstream Performance in Natural Language Processing
+SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts
 
 Link to the paper:
-https://aclanthology.org/2022.insights-1.12/
+https://aclanthology.org/2021.findings-emnlp.278/
 
 Group Number:
 21
