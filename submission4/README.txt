@@ -5,25 +5,24 @@ Paper title:
 Artificial Neural Networks: Can They Learn
 Language Models?
 
-Paper presentation (anyone can view without login):
+Paper presentation (anyone can view without login):https://edas.info/index.php?c=30482
 
 
-Paper submission date (to workshop/conference):
-
-
-
-Paper submission ID: (received) from conference/workshop:
+Paper submission date (to workshop/conference):3/1/2023
 
 
 
-Conference Name:
+Paper submission ID: (received) from conference/workshop:1570876045
 
 
-Conference URL:
-https://iccit.org.bd/2022/
+
+Conference Name:EDAS
+
+
+Conference URL:https://edas.info/index.php#
 
 Group Number:
-2
+21
 
 Group Members:
 20201225 -md.ashiq ul islam sajid
